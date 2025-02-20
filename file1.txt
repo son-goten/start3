@@ -2,4 +2,8 @@ hollo git world
 second
 third - my branch
 fourth - my branch
+<<<<<<< HEAD
 some hotfix
+=======
+기능1 추가
+>>>>>>> f08d63c (새로운기능1 추가)
